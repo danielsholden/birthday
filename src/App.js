@@ -1,6 +1,7 @@
 import React from 'react';
 import img from './kid.png';
 import arrow from './arrows.png';
+import maps from './google-maps.png';
 import './App.css';
 
 import { languages, descriptions, guests } from './helper';
@@ -30,7 +31,10 @@ function App() {
         <div className="invitation">
           {descriptions[lang]}
           <br/>
-          <a href='https://goo.gl/maps/PfciL6nd4GNuqrK1A' target='_blank'>MAPS</a>
+          <a href='https://goo.gl/maps/PfciL6nd4GNuqrK1A' target='_blank' className='maps'>
+            <img src={maps} alt="maps" className='map-icon'/>
+            MAPS
+          </a>
         </div>
       </div>
     </div>

@@ -66,9 +66,22 @@ h1 {
   line-height: 20px;
 }
 
-@media screen and (max-width: 450px) {
+.maps {
+  margin-top: 20px;
+  display: block;
+}
+
+.map-icon {
+  width: 20px;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 25px;
+  }
+
   .content {
-    max-width: 180px;
+    max-width: 200px;
   }
 
   .arrow {
@@ -84,5 +97,15 @@ h1 {
 
   .invitation {
     margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .content {
+    max-width: 170px;
+  }
+
+  h1 {
+    font-size: 20px;
   }
 }
