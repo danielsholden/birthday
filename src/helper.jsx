@@ -6,7 +6,7 @@ export const guests = {
   sivtsovi: 'Бая и Саша',
   mama: 'Мама',
   eka: 'ეკა',
-  uta: 'Uta',
+  'uta-and-beka': 'უტა და ბექა',
   'luka-and-inga': 'ლუკა და ინგა დეიდა',
   'mediko-and-tako': 'მედიკო დეიდა და თაკო',
   'bero-vero-vache': 'ბერო, ვერო ფა ვაჩე',
