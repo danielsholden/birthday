@@ -12,12 +12,9 @@ function Home() {
   const lang = languages.includes(langParam) ? langParam : 'en';
   const guest = searchParams.get('guest');
 
-  console.log({lang})
-  console.log({guest})
-
-  // if (!guests[guest]) {
-  //   return null;
-  // }
+  if (!guests[guest]) {
+    return null;
+  }
 
   return (
     <div className="App">
