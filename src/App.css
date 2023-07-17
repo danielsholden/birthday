@@ -7,7 +7,7 @@
 }
 
 h1 {
-  font-family: fantasy, cursive;
+  font-family: 'Love Ya Like A Sister', cursive;
   margin: 0;
 }
 
@@ -29,7 +29,7 @@ h1 {
 
 .name {
   margin-top: 10px;
-  font-family: fantasy;
+  font-family: 'Love Ya Like A Sister', cursive;
   font-size: 18px;
 }
 
@@ -62,7 +62,7 @@ h1 {
   text-align: center;
   margin-top: 40px;
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Love Ya Like A Sister', cursive;
   line-height: 20px;
 }
 
@@ -81,7 +81,7 @@ h1 {
   }
 
   .content {
-    max-width: 200px;
+    max-width: 250px;
   }
 
   .arrow {
@@ -100,7 +100,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 390px) {
   .content {
     max-width: 170px;
   }
