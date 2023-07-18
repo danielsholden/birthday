@@ -19,7 +19,7 @@ export const guests = {
   rassohini: 'Стас, Женя и Лера',
   alia: 'Алия',
   'izoria': 'Levani, Olya and Mari',
-  mamaS: 'Ирина Геннадьевна',
+  mamaS: 'Ирина Геннадиевна',
   alexS: 'Леша',
   samarcevi: 'Алена и Костя'
 };

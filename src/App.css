@@ -7,7 +7,7 @@
 }
 
 h1 {
-  font-family: 'Love Ya Like A Sister', cursive;
+  font-family: 'Love Ya Like A Sister';
   margin: 0;
 }
 
@@ -29,7 +29,7 @@ h1 {
 
 .name {
   margin-top: 10px;
-  font-family: 'Love Ya Like A Sister', cursive;
+  font-family: 'Love Ya Like A Sister';
   font-size: 18px;
 }
 
@@ -46,7 +46,7 @@ h1 {
 }
 
 .remember {
-  font-family: 'Love Ya Like A Sister', cursive;
+  font-family: 'Love Ya Like A Sister';
   text-transform: uppercase;
   font-size: 35px;
   transform: rotate(-14deg);
