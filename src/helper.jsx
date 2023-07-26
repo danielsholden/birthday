@@ -21,7 +21,8 @@ export const guests = {
   'izoria': 'Levani, Olya and Mari',
   mamaS: 'Ирина Геннадиевна',
   alexS: 'Леша',
-  samarcevi: 'Алена и Костя'
+  samarcevi: 'Алена и Костя',
+  temo: 'Темо',
 };
 
 export const descriptions = {
